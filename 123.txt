@@ -1,0 +1,16 @@
+测试开发的技术栈
+1.Java自动化(web，app，接口)
+2.Python自动化(web，app，接口)
+3.jmeter性能测试
+4.loadrunner性能测试
+5.jenkins持续集成
+6.git，svn版本管理工具
+7抓包工具fiddler，Charles
+8.接口工具postman
+9.数据库Oracle，MySQL，sqlserver
+10.Linux和shell脚本运维技术
+11.k8s，docker
+12.项目管理工具jira，confluence
+13.精通测试用例设计
+14.沟通能力好，学习能力好
+15.具有丰富的金融行业经验和复杂系统的经验
