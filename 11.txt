@@ -9,8 +9,3 @@
 8.接口工具postman
 9.数据库Oracle，MySQL，sqlserver
 10.Linux和shell脚本运维技术
-11.k8s，docker
-12.项目管理工具jira，confluence
-13.精通测试用例设计
-14.沟通能力好，学习能力好
-15.具有丰富的金融行业经验和复杂系统的经验
